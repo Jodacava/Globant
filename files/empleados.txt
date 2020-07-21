@@ -1,0 +1,4 @@
+employee_code;name;lastname;address;age;start_date;salary;position;department
+1;Johann David;Castro Valencia;cra 1C # 11-103 casa 15;40;2020/07/01;6000000;Python Developer;TI
+2;Alberto;Bermudez;cra 15 # 110-10;25;2020/07/01;3000000; Developer;TI
+3;Carla;Martinez;cll 20 # 110-10;25;2020/07/01;1000000; Cleaner;TI

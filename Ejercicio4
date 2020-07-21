@@ -1,0 +1,14 @@
+Answers:
+
+1. Using Docker, we can use a textfile common named "requirements.txt" on the root of every proyect
+and with the command "RUN pip3 install -r <textfile name>", Docker installes
+the version that you put in the textfile with the sintaxis: <library>==<version> example: Flask==0.12
+
+2. I think all the objects and definitions that the requested objects need are loaded at runtime,
+because the objects can´t run without it's own dependencies or definitions.
+
+3. Nop
+
+4. It differentiates the part of the code that must be executed when the program is called by an import or
+if it is called as the main program.
+It is executed when the python interpreter reads the code to execute.
